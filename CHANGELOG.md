@@ -1,5 +1,18 @@
 # Changelog
 
+## [19.67.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v19.66.0...v19.67.0) (2024-07-10)
+
+
+### Features
+
+* **add:** TS0601_cover_10 [@ajgon](https://github.com/ajgon) https://github.com/Koenkk/zigbee2mqtt/discussions/19635 ([9446716](https://github.com/Koenkk/zigbee-herdsman-converters/commit/94467162420380dc8f5b8ca6d8e9ccb3fc4353c7))
+
+
+### Bug Fixes
+
+* **detect:** Detect `_TZ3000_hzlsaltw` as Tuya TS0001_power https://github.com/Koenkk/zigbee2mqtt/issues/23143 ([30a972e](https://github.com/Koenkk/zigbee-herdsman-converters/commit/30a972e19148c6f3c60615a7feb23ca3854be2c3))
+* Fix `getFromLookup` when retrieved value is `null` https://github.com/Koenkk/zigbee2mqtt/issues/21357 ([1d71b43](https://github.com/Koenkk/zigbee-herdsman-converters/commit/1d71b43ab6c04303e765787a6ff477401f806f5c))
+
 ## [19.66.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v19.65.0...v19.66.0) (2024-07-09)
 
 
